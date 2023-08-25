@@ -1,0 +1,16 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/form.mjs",
+  "scripts": {
+    "form:dev": "vite",
+    "form:build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tools": "workspace:*"
+  }
+}
